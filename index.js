@@ -40,7 +40,7 @@ const red     = '#be3a31';
 const green   = '#30ad63';
 const yellow  = '#f19b2c';
 const blue    = '#3498db';
-const magenta = '#AB2884';
+const magenta = '#BB4698';
 const cyan    = '#239f85';
 const gray    = '#d9dfdd';
 
