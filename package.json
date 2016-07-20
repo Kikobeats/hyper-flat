@@ -1,20 +1,28 @@
 {
   "name": "hyperterm-flat",
-  "version": "0.1.0",
   "description": "Flat HyperTerm theme",
-  "license": "MIT",
-  "repository": "kikobeats/hyperterm-flat",
+  "homepage": "https://github.com/kikobeats/hyperterm-flat#readme",
+  "version": "0.1.0",
+  "main": "index.js",
   "author": {
     "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
     "url": "kikobeats.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikobeats/hyperterm-flat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kikobeats/hyperterm-flat/issues"
+  },
+  "keywords": [
+    "flat",
+    "hyperterm",
+    "hyperterm-theme"
+  ],
   "files": [
     "index.js"
   ],
-  "keywords": [
-    "hyperterm",
-    "hyperterm-theme",
-    "flat"
-  ]
+  "license": "MIT"
 }
