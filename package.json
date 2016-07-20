@@ -2,7 +2,7 @@
   "name": "hyperterm-flat",
   "description": "Flat HyperTerm theme",
   "homepage": "https://github.com/kikobeats/hyperterm-flat#readme",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "author": {
     "name": "Kiko Beats",
