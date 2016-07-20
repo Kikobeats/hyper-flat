@@ -28,12 +28,12 @@ function ligthen(col, amt) {
     return (usePound?"#":"") + (g | (b << 8) | (r << 16)).toString(16);
 }
 
-
 const foregroundColor = '#dadfdd';
 const cursorColor = foregroundColor;
 
 const backgroundColor = '#000';
 const borderColor = backgroundColor;
+const activeColor = '128, 203, 196'
 
 const black   = '#2d3e4f';
 const red     = '#be3a31';
@@ -82,7 +82,16 @@ exports.decorateConfig = config => {
 		css: `
 			${config.css || ''}
 			.tab_active:before {
-				border-color: rgba(171, 40, 132, 0.8);
+				border-color: rgba(${activeColor}, 0.8);
+			}
+		`,
+		termCSS: `
+		  x-screen a {
+		    color: rgba(${activeColor}, 1);
+		  }
+
+			::selection {
+			  background: rgba(${activeColor}, 1);
 			}
 		`
 	});
