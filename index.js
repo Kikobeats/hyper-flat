@@ -44,14 +44,14 @@ const magenta = '#BB4698';
 const cyan    = '#239f85';
 const gray    = '#d9dfdd';
 
-const brightBlack   = ligthen(black, 25)
-const brightRed     = ligthen(red, 25)
-const brightGreen   = ligthen(green, 25)
-const brightYellow  = ligthen(yellow, 25)
-const brightBlue    = ligthen(blue, 25)
-const brightMagenta = ligthen(magenta, 25)
-const brightCyan    = ligthen(cyan, 25)
-const brightGray    = ligthen(gray, 25)
+const lightBlack   = ligthen(black, 25)
+const lightRed     = ligthen(red, 25)
+const lightGreen   = ligthen(green, 25)
+const lightYellow  = ligthen(yellow, 25)
+const lightBlue    = ligthen(blue, 25)
+const lightMagenta = ligthen(magenta, 25)
+const lightCyan    = ligthen(cyan, 25)
+const lightGray    = ligthen(gray, 25)
 
 exports.decorateConfig = config => {
 	return Object.assign({}, config, {
@@ -69,15 +69,15 @@ exports.decorateConfig = config => {
 			cyan,
 			gray,
 
-			// bright
-			brightBlack,
-			brightRed,
-			brightGreen,
-			brightYellow,
-			brightBlue,
-			brightMagenta,
-			brightCyan,
-			brightGray
+			// light
+			lightBlack,
+			lightRed,
+			lightGreen,
+			lightYellow,
+			lightBlue,
+			lightMagenta,
+			lightCyan,
+			lightGray
 		],
 		css: `
 			${config.css || ''}
