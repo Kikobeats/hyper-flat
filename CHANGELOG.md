@@ -1,3 +1,11 @@
+<a name="1.0.0"></a>
+# 1.0.0 (2016-07-26)
+
+* bright → light ([03382d0](https://github.com/kikobeats/hyperterm-flat/commit/03382d0))
+* Extract util methods ([df66319](https://github.com/kikobeats/hyperterm-flat/commit/df66319))
+
+
+
 <a name="0.2.0"></a>
 # 0.2.0 (2016-07-20)
 
