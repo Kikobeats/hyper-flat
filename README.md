@@ -2,7 +2,7 @@
 
 > Flat [Hyper](https://hyper.is) theme
 
-![](screenshot.png)
+![](demo.png)
 
 ## Install
 
