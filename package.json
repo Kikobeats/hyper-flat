@@ -22,7 +22,11 @@
     "hyper-theme"
   ],
   "files": [
-    "index.js"
+    "index.js",
+    "close.svg"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "latest"
+  }
 }
