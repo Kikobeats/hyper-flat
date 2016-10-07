@@ -1,7 +1,7 @@
 {
-  "name": "hyperterm-flat",
+  "name": "hyper-flat",
   "description": "Flat HyperTerm theme",
-  "homepage": "https://github.com/kikobeats/hyperterm-flat#readme",
+  "homepage": "https://github.com/kikobeats/hyper-flat#readme",
   "version": "1.0.0",
   "main": "index.js",
   "author": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kikobeats/hyperterm-flat.git"
+    "url": "git+https://github.com/kikobeats/hyper-flat.git"
   },
   "bugs": {
-    "url": "https://github.com/kikobeats/hyperterm-flat/issues"
+    "url": "https://github.com/kikobeats/hyper-flat/issues"
   },
   "keywords": [
     "flat",
-    "hyperterm",
-    "hyperterm-theme"
+    "hyper",
+    "hyper-theme"
   ],
   "files": [
     "index.js"

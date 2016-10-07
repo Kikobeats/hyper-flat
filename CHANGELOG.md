@@ -1,20 +1,20 @@
 <a name="1.0.0"></a>
 # 1.0.0 (2016-07-26)
 
-* bright → light ([03382d0](https://github.com/kikobeats/hyperterm-flat/commit/03382d0))
-* Extract util methods ([df66319](https://github.com/kikobeats/hyperterm-flat/commit/df66319))
+* bright → light ([03382d0](https://github.com/kikobeats/hyper-flat/commit/03382d0))
+* Extract util methods ([df66319](https://github.com/kikobeats/hyper-flat/commit/df66319))
 
 
 
 <a name="0.2.0"></a>
 # 0.2.0 (2016-07-20)
 
-* Add bumped settings ([59f3640](https://github.com/kikobeats/hyperterm-flat/commit/59f3640))
-* Change magenta ([3ca199d](https://github.com/kikobeats/hyperterm-flat/commit/3ca199d))
-* First commit ([dc8a74e](https://github.com/kikobeats/hyperterm-flat/commit/dc8a74e))
-* Ignore common files ([41d4ff7](https://github.com/kikobeats/hyperterm-flat/commit/41d4ff7))
-* Improve active and selection color ([9565c77](https://github.com/kikobeats/hyperterm-flat/commit/9565c77))
-* Update demo ([a9fa59a](https://github.com/kikobeats/hyperterm-flat/commit/a9fa59a))
+* Add bumped settings ([59f3640](https://github.com/kikobeats/hyper-flat/commit/59f3640))
+* Change magenta ([3ca199d](https://github.com/kikobeats/hyper-flat/commit/3ca199d))
+* First commit ([dc8a74e](https://github.com/kikobeats/hyper-flat/commit/dc8a74e))
+* Ignore common files ([41d4ff7](https://github.com/kikobeats/hyper-flat/commit/41d4ff7))
+* Improve active and selection color ([9565c77](https://github.com/kikobeats/hyper-flat/commit/9565c77))
+* Update demo ([a9fa59a](https://github.com/kikobeats/hyper-flat/commit/a9fa59a))
 
 
 

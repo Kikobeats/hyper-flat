@@ -1,12 +1,12 @@
-# hyperterm-flat
+# hyper-flat
 
-> Flat [HyperTerm](https://hyperterm.org) theme
+> Flat [Hyper](https://hyper.is) theme
 
 ![](screenshot.png)
 
 ## Install
 
-Add `hyperterm-flat` to the plugins list in your `~/.hyperterm.js` config file.
+Add `hyper-flat` to the plugins list in your `~/.hyper.js` config file.
 
 ## License
 
