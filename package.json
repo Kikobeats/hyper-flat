@@ -2,11 +2,11 @@
   "name": "hyper-flat",
   "description": "Flat HyperTerm theme",
   "homepage": "https://github.com/kikobeats/hyper-flat#readme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "author": {
-    "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
     "url": "kikobeats.com"
   },
   "repository": {
@@ -21,12 +21,12 @@
     "hyper",
     "hyper-theme"
   ],
+  "devDependencies": {
+    "standard": "latest"
+  },
   "files": [
     "index.js",
     "close.svg"
   ],
-  "license": "MIT",
-  "devDependencies": {
-    "standard": "latest"
-  }
+  "license": "MIT"
 }

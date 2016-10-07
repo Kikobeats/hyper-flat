@@ -1,3 +1,12 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2016-10-07)
+
+* Add tab style ([f47021c](https://github.com/kikobeats/hyper-flat/commit/f47021c))
+* Rename ([a91e86b](https://github.com/kikobeats/hyper-flat/commit/a91e86b))
+* Update demo ([8e0e32b](https://github.com/kikobeats/hyper-flat/commit/8e0e32b))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2016-07-26)
 
