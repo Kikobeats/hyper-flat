@@ -1,3 +1,10 @@
+<a name="1.1.1"></a>
+## 1.1.1 (2016-10-07)
+
+* Add missing file ([6964270](https://github.com/kikobeats/hyper-flat/commit/6964270))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2016-10-07)
 
