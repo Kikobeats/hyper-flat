@@ -46,7 +46,7 @@ const linkColor = secondaryColor
  * Tabs
  */
 
-const inactiveTabBackgroundColor = '#171717'
+const inactiveTabBackgroundColor = '#242424'
 const activeTabBorderColor = primaryColor
 const activeTabColor = primaryColor
 const dividerColor = 'rgba(157, 165, 180, 0.25)'
