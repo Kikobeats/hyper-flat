@@ -104,46 +104,15 @@ exports.decorateConfig = config => {
         color: ${dividerColor};
         transition: none;
       }
-      .tab_tab::after {
-        content: "";
-        position: absolute;
-        pointer-events: none;
-        top: 0;
-        bottom: -1px;
-        left: 0;
-        width: 2px;
-        height: inherit;
-        background: ${activeTabBorderColor};
-        opacity: 0;
-        transition: opacity .16s;
-        z-index: 1;
-      }
       .tabs_title,
       .tab_tab.tab_active {
         font-weight: 500;
         color: ${activeTabColor};
-      }
-      .tab_tab.tab_active {
-        background-color: ${backgroundColor};
+				background-color: ${backgroundColor};
       }
       .tab_tab.tab_active,
       .tab_tab.tab_active + .tab_tab {
         border-image: linear-gradient(transparent, transparent) 0 0 0 1 stretch;
-      }
-      .tab_tab.tab_active::before {
-        content: "";
-        z-index: 1;
-        position: absolute;
-        top: 0;
-        left: -1px;
-        bottom: -1px;
-        right: 0;
-        height: inherit;
-        background-image: linear-gradient(rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0));
-        box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.06);
-        border: 1px solid #181a1f;
-        border-bottom-color: ${backgroundColor};
-        border-top: 0;
       }
       .tab_tab.tab_active:last-of-type::before {
         border-right-width: 0;
