@@ -1,3 +1,11 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2016-12-13)
+
+* improve color ([5e935b0](https://github.com/kikobeats/hyper-flat/commit/5e935b0))
+* Remove active tab color ([733406a](https://github.com/kikobeats/hyper-flat/commit/733406a))
+
+
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2016-10-07)
 
