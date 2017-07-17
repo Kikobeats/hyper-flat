@@ -1,5 +1,7 @@
 # hyper-flat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/hyper-flat.svg)](https://greenkeeper.io/)
+
 > Flat [Hyper](https://hyper.is) theme
 
 ![](demo.png)
